@@ -1,4 +1,4 @@
-module datastructure
+module github.com/yukisato/leetcode-util
 
 go 1.14
 
